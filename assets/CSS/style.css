@@ -1,17 +1,28 @@
 .container {
+    width: 500px;
     margin: 10px;
     border: solid #111;
+    border-radius: 40px;
 
+}
+
+p {
+  color: #111;
+  font-size: 20px;
+  font-family: 'Inter', Arial, Helvetica, sans-serif;
 }
 
 .image1 {
-  
+  height: 100px;
+  width: 100px;
 }
 
 .nome {
-
+  color: #111;
+  font-family: 'Inter','Segoe UI', sans-serif;
 }
 
 .cargo {
-  
+  color: #111;
+  font-family: 'Inter', 'Segoe UI', sans-serif;
 }
